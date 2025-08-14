@@ -28,5 +28,3 @@ Solving using Python3
 # WEEK8,9,10,11,12,13,14,15
 ![hckrank](https://github.com/callmelokzy/HackerrankProblemsolving/assets/56486732/512e4c72-fd98-4eb5-9959-69b76138219f)
 
-
-https://www.hackerrank.com/lokzy
